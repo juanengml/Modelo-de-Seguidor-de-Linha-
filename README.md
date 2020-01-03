@@ -1,6 +1,7 @@
-# Modelo-de-Seguidor-de-Linha-
+# Modelo-de-Seguidor-de-Linha
 
 Usando uma CNN para Classificar se tem linha na imagem ou não, usei a as bases de treino a baixo em uma massa de dados unicas e outra base com dados que onde não tem linha
+
 ---
 ![](https://raw.githubusercontent.com/juanengml/Modelo-de-Seguidor-de-Linha-/master/Screenshot_2020-01-03%20Google%20Colaboratory.png)
 
